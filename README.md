@@ -61,7 +61,7 @@ These tools cover a broad spectrum of SQL injection and vulnerability testing sc
 ### **SQL Injection Payloads:**
 
 
-```SQL Injection
+`SQL Injection
 '
 ''
 `
@@ -150,7 +150,7 @@ Comments:
 -- -	SQL comment
 ;%00	Nullbyte
 `	    Backtick
-```
+`
 ### **Error Based Payloads:**
 
 
