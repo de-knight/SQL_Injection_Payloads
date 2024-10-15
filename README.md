@@ -56,3 +56,40 @@ Moreover, SQL injection attacks can escalate, enabling attackers to breach the u
 
 
 These tools cover a broad spectrum of SQL injection and vulnerability testing scenarios, offering different methods and approaches to detect, exploit, and secure databases.
+
+
+
+
+
+
+
+
+
+## **References and Additional Reading**
+
++ Understanding SQL Injection (OWASP Guide): A comprehensive introduction to SQL Injection vulnerabilities, including how they occur and ways to prevent them.
+[Read More on OWASP SQL Injection](https://www.owasp.org/index.php/SQL_Injection)
+
++ Exploring Blind SQL Injection: This guide focuses on Blind SQL Injection, a more subtle but equally dangerous form of attack where the results are not directly visible.
+[Learn About Blind SQL Injection](https://www.owasp.org/index.php/Blind_SQL_Injection)
+
++ SQL Injection Testing Techniques (OTG-INPVAL-005): A thorough overview of how to test for SQL injection vulnerabilities in web applications.
+[SQL Injection Testing Guide](https://www.owasp.org/index.php/Testing_for_SQL_Injection_(OTG-INPVAL-005))
+
++ Bypassing Web Application Firewalls (WAF) in SQL Injection Attacks: Discover advanced techniques for bypassing security defenses such as WAFs in SQL injection exploits.
+[Bypassing WAF in SQL Injection](https://www.owasp.org/index.php/SQL_Injection_Bypassing_WAF)
+
++ Code Review for SQL Injection Vulnerabilities: A detailed explanation of how to review source code to identify potential SQL injection vulnerabilities.
+[Guide to Reviewing Code for SQL Injection](https://www.owasp.org/index.php/Reviewing_Code_for_SQL_Injection)
+
++ PL/SQL Injection Explained: Explore the specifics of SQL Injection in PL/SQL environments, a database procedural extension to SQL.
+[PL/SQL SQL Injection Guide](https://www.owasp.org/index.php/PL/SQL:SQL_Injection)
+
++ Testing for NoSQL Injection Vulnerabilities: A guide for identifying and mitigating NoSQL injection, a variant of SQL injection that targets NoSQL databases.
+[Testing for NoSQL Injection](https://www.owasp.org/index.php/Testing_for_NoSQL_injection)
+
++ SQL Injection Prevention Cheat Sheet: Best practices for defending against SQL injection, including parameterized queries, prepared statements, and more.
+[Injection Prevention Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Injection_Prevention_Cheat_Sheet.html)
+
++ SQL Query Parameterization Cheat Sheet: A focused resource on using query parameterization to prevent SQL injection, one of the most effective security measures.
+[Query Parameterization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html)
