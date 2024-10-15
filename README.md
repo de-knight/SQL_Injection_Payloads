@@ -25,7 +25,7 @@ Moreover, SQL injection attacks can escalate, enabling attackers to breach the u
 
 ## **Top SQL Injection Tools for Database Exploitation and Security Testing**
 
-+ ** [SQLMap]([URL](https://github.com/sqlmapproject/sqlmap)) ** – An advanced and highly automated SQL injection tool that allows full control over database takeovers. SQLMap is widely recognized for its powerful features, including the ability to detect and exploit                SQL injection vulnerabilities and provide an in-depth database fingerprinting, data retrieval, and even remote code execution.
++ **[SQLMap](https://github.com/sqlmapproject/sqlmap)** – An advanced and highly automated SQL injection tool that allows full control over database takeovers. SQLMap is widely recognized for its powerful features, including the ability to detect and exploit                SQL injection vulnerabilities and provide an in-depth database fingerprinting, data retrieval, and even remote code execution.
 
 
 + **jSQL Injection** – A lightweight and fast Java-based tool designed for automatic SQL injection. It simplifies the process of exploiting SQL injection vulnerabilities in databases, offering user-friendly features                        like database schema exploration, data extraction, and remote database modification.
