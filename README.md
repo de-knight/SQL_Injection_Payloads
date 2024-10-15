@@ -58,7 +58,9 @@ Moreover, SQL injection attacks can escalate, enabling attackers to breach the u
 These tools cover a broad spectrum of SQL injection and vulnerability testing scenarios, offering different methods and approaches to detect, exploit, and secure databases.
 
 
-## **SQL Injection Payloads**
+### **SQL Injection Payloads**
+
+[]()
 
 
 
