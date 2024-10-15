@@ -945,3 +945,15 @@ admin") or "1"="1"/*
 
 + **SQL Query Parameterization Cheat Sheet:** A focused resource on using query parameterization to prevent SQL injection, one of the most effective security measures.
 [Query Parameterization Cheat Sheet](https://cheatsheetseries.owasp.org/cheatsheets/Query_Parameterization_Cheat_Sheet.html)
+
+
+## **Disclaimer**
++ **Ethical Use Only:** The content, code snippets, and SQL injection payloads provided in this repository are intended solely for educational and informational purposes. They are meant to enhance understanding of SQL injection vulnerabilities and their mitigation.
+
++ **Responsibility:** By using the materials in this repository, you agree to use them responsibly and ethically. It is your responsibility to ensure that you have the appropriate permissions to test any database or application with these techniques.
+
++ **Legal Compliance:** Unauthorized testing of systems or applications without explicit permission is illegal and unethical. Ensure you are in compliance with all applicable laws and regulations in your jurisdiction before conducting any testing.
+
++ **No Liability:** The author of this repository does not accept any liability for the misuse of the information contained herein. Use these tools and techniques at your own risk.
+
+
