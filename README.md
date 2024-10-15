@@ -11,3 +11,5 @@ SQL injection is a critical web security vulnerability that empowers attackers t
 Moreover, SQL injection attacks can escalate, enabling attackers to breach the underlying server or compromise other back-end infrastructure. In extreme cases, these attacks can even facilitate denial-of-service events, severely disrupting the availability of the application.
 
 ![Sql-Injection-Process](sql-injection-process.png)
+
+
