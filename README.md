@@ -60,7 +60,8 @@ These tools cover a broad spectrum of SQL injection and vulnerability testing sc
 
 ### **SQL Injection Payloads**
 
-[sql](Ignore/ErrorBasedPayloads.txt)
+```blah blah
+fafasfa
 
 
 
