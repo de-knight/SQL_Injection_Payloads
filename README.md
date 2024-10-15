@@ -28,31 +28,31 @@ Moreover, SQL injection attacks can escalate, enabling attackers to breach the u
 + **[SQLMap](https://github.com/sqlmapproject/sqlmap)** – An advanced and highly automated SQL injection tool that allows full control over database takeovers. SQLMap is widely recognized for its powerful features, including the ability to detect and exploit                SQL injection vulnerabilities and provide an in-depth database fingerprinting, data retrieval, and even remote code execution.
 
 
-+ **jSQL Injection** – A lightweight and fast Java-based tool designed for automatic SQL injection. It simplifies the process of exploiting SQL injection vulnerabilities in databases, offering user-friendly features                        like database schema exploration, data extraction, and remote database modification.
++ **[jSQL Injection](https://github.com/ron190/jsql-injection)** – A lightweight and fast Java-based tool designed for automatic SQL injection. It simplifies the process of exploiting SQL injection vulnerabilities in databases, offering user-friendly features                        like database schema exploration, data extraction, and remote database modification.
 
 
-+ **BBQSQL** – A tool specifically designed for blind SQL injection exploitation. BBQSQL excels in situations where traditional SQL injection tools fail due to lack of visible output, providing robust methods to                    infer information from vulnerable databases without needing direct feedback.
++ **[BBQSQL](https://github.com/Neohapsis/bbqsql)** – A tool specifically designed for blind SQL injection exploitation. BBQSQL excels in situations where traditional SQL injection tools fail due to lack of visible output, providing robust methods to                    infer information from vulnerable databases without needing direct feedback.
 
 
-+ **NoSQLMa** – A tool built for automating the detection and exploitation of NoSQL databases like MongoDB, CouchDB, and Redis. It brings the SQL injection concept to NoSQL databases, enabling the exploitation of                    improperly secured NoSQL instances through injection techniques.
++ **[NoSQLMa](https://github.com/codingo/NoSQLMap)** – A tool built for automating the detection and exploitation of NoSQL databases like MongoDB, CouchDB, and Redis. It brings the SQL injection concept to NoSQL databases, enabling the exploitation of                    improperly secured NoSQL instances through injection techniques.
 
 
-+ **Whitewidow** – A powerful SQL vulnerability scanner that quickly detects SQL injection vulnerabilities on websites. It automates the process of scanning large sets of URLs for SQLi weaknesses, making it an                          essential tool for pen testers and security professionals.
++ **[Whitewidow](https://www.kitploit.com/2017/05/whitewidow-sql-vulnerability-scanner.html)** – A powerful SQL vulnerability scanner that quickly detects SQL injection vulnerabilities on websites. It automates the process of scanning large sets of URLs for SQLi weaknesses, making it an                          essential tool for pen testers and security professionals.
 
 
-+ **DSSS (Damn Small SQLi Scanner)** – A compact yet efficient SQL injection scanner, ideal for quickly identifying SQL vulnerabilities in web applications. DSSS is designed for minimal resource usage, making it                                            perfect for lightweight tasks while maintaining strong detection capabilities.
++ **[DSSS (Damn Small SQLi Scanner)](https://github.com/stamparm/DSSS)** – A compact yet efficient SQL injection scanner, ideal for quickly identifying SQL vulnerabilities in web applications. DSSS is designed for minimal resource usage, making it                                            perfect for lightweight tasks while maintaining strong detection capabilities.
 
 
-+ **Explo** – A versatile tool that reads and generates human and machine-readable web vulnerability testing reports. It helps security professionals and developers by automating SQL injection testing and generating               comprehensive vulnerability assessments.
++ **[Explo](https://github.com/dtag-dev-sec/explo)** – A versatile tool that reads and generates human and machine-readable web vulnerability testing reports. It helps security professionals and developers by automating SQL injection testing and generating               comprehensive vulnerability assessments.
 
 
-+ **Blind-SQL-Bitshifting** – A niche tool used for exploiting blind SQL injection vulnerabilities via bit-shifting techniques. This unique approach allows attackers to extract database information even in                                         restricted environments where traditional methods fail.
++ **[Blind-SQL-Bitshifting](https://github.com/awnumar/blind-sql-bitshifting)** – A niche tool used for exploiting blind SQL injection vulnerabilities via bit-shifting techniques. This unique approach allows attackers to extract database information even in                                         restricted environments where traditional methods fail.
 
 
-+ **Leviathan** – A mass auditing toolkit designed to conduct wide-range security assessments. Leviathan offers capabilities for SQL injection testing, along with other mass auditing functions for web applications,                    making it a go-to for large-scale penetration tests.
++ **[Leviathan](https://github.com/leviathan-framework/leviathan)** – A mass auditing toolkit designed to conduct wide-range security assessments. Leviathan offers capabilities for SQL injection testing, along with other mass auditing functions for web applications,                    making it a go-to for large-scale penetration tests.
 
 
-+ **Blisqy** – A specialized tool that exploits time-based blind SQL injection vulnerabilities found within HTTP headers, particularly targeting MySQL/MariaDB databases. Blisqy is efficient for detecting and                        exploiting time-delayed responses in SQL injections, making it suitable for harder-to-exploit scenarios.
++ **[Blisqy](https://github.com/JohnTroony/Blisqy)** – A specialized tool that exploits time-based blind SQL injection vulnerabilities found within HTTP headers, particularly targeting MySQL/MariaDB databases. Blisqy is efficient for detecting and                        exploiting time-delayed responses in SQL injections, making it suitable for harder-to-exploit scenarios.
 
 
 These tools cover a broad spectrum of SQL injection and vulnerability testing scenarios, offering different methods and approaches to detect, exploit, and secure databases.
